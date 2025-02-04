@@ -1,102 +1,102 @@
 [
     {
        "id":1,
-       "category":1,
+       "category":"Home, Garden",
        "postDate":"2023-05-14",
        "featureImage":"https://dummyimage.com/200x200/000/fff",
        "price":9.99,
        "title":"Lawnmower",
-       "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis fringilla sem efficitur congue. Vestibulum efficitur blandit ultricies. Sed tempus mollis orci id facilisis. Aliquam placerat, ipsum eget egestas malesuada, neque nunc scelerisque felis, ut egestas turpis augue ut nisi. Curabitur vel convallis augue.",
+       "body":"A powerful and durable lawnmower designed for precision cutting and efficiency. Perfect for keeping your garden neat and tidy.",
        "published":true
     },
     {
        "id":2,
-       "category":1,
+       "category":"Home, Garden",
        "postDate":"2023-05-15",
        "featureImage":"https://dummyimage.com/200x200/000/fff",
        "price":19.99,
        "title":"Weber BBQ",
-       "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis fringilla sem efficitur congue. Vestibulum efficitur blandit ultricies. Sed tempus mollis orci id facilisis. Aliquam placerat, ipsum eget egestas malesuada, neque nunc scelerisque felis, ut egestas turpis augue ut nisi. Curabitur vel convallis augue.",
+       "body":"The ultimate grill for outdoor cooking enthusiasts. Enjoy perfectly cooked meals with this easy-to-use and portable BBQ grill.",
        "published":true
     },
     {
        "id":3,
-       "category":2,
+       "category":"Electronics, Computers, Video Games",
        "postDate":"2023-05-16",
        "featureImage":"https://dummyimage.com/200x200/000/fff",
        "price":439.99,
        "title":"PS5",
-       "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis fringilla sem efficitur congue. Vestibulum efficitur blandit ultricies. Sed tempus mollis orci id facilisis. Aliquam placerat, ipsum eget egestas malesuada, neque nunc scelerisque felis, ut egestas turpis augue ut nisi. Curabitur vel convallis augue.",
+       "body":"The latest PlayStation console with groundbreaking graphics, lightning-fast load times, and an immersive gaming experience.",
        "published":true
     },
     {
        "id":4,
-       "category":2,
+       "category":"Electronics, Computers, Video Games",
        "postDate":"2023-05-17",
        "featureImage":"https://dummyimage.com/200x200/000/fff",
        "price":459.99,
        "title":"XBOX",
-       "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis fringilla sem efficitur congue. Vestibulum efficitur blandit ultricies. Sed tempus mollis orci id facilisis. Aliquam placerat, ipsum eget egestas malesuada, neque nunc scelerisque felis, ut egestas turpis augue ut nisi. Curabitur vel convallis augue.",
+       "body":"Experience the next generation of gaming with the Xbox Series X, offering incredible performance and a vast library of games.",
        "published":true
     },
     {
        "id":5,
-       "category":3,
+       "category":"Clothing",
        "postDate":"2023-05-18",
        "featureImage":"https://dummyimage.com/200x200/000/fff",
        "price":39.99,
        "title":"TShirt",
-       "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis fringilla sem efficitur congue. Vestibulum efficitur blandit ultricies. Sed tempus mollis orci id facilisis. Aliquam placerat, ipsum eget egestas malesuada, neque nunc scelerisque felis, ut egestas turpis augue ut nisi. Curabitur vel convallis augue.",
+       "body":"A comfortable and stylish T-shirt made with high-quality materials. Perfect for casual wear or layering.",
        "published":true
     },
     {
        "id":6,
-       "category":3,
+       "category":"Clothing",
        "postDate":"2023-05-19",
        "featureImage":"https://dummyimage.com/200x200/000/fff",
        "price":29.99,
        "title":"Shorts",
-       "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis fringilla sem efficitur congue. Vestibulum efficitur blandit ultricies. Sed tempus mollis orci id facilisis. Aliquam placerat, ipsum eget egestas malesuada, neque nunc scelerisque felis, ut egestas turpis augue ut nisi. Curabitur vel convallis augue.",
+       "body":"Lightweight and breathable shorts designed for maximum comfort during workouts or casual outings.",
        "published":true
     },
     {
        "id":7,
-       "category":4,
+       "category":"Sports & Outdoors",
        "postDate":"2023-05-20",
        "featureImage":"https://dummyimage.com/200x200/000/fff",
        "price":19.99,
        "title":"Baseball",
-       "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis fringilla sem efficitur congue. Vestibulum efficitur blandit ultricies. Sed tempus mollis orci id facilisis. Aliquam placerat, ipsum eget egestas malesuada, neque nunc scelerisque felis, ut egestas turpis augue ut nisi. Curabitur vel convallis augue.",
+       "body":"High-quality baseball designed for professional play and practice sessions. Durable and built for performance.",
        "published":true
     },
     {
        "id":8,
-       "category":4,
+       "category":"Sports & Outdoors",
        "postDate":"2023-05-21",
        "featureImage":"https://dummyimage.com/200x200/000/fff",
        "price":99.99,
        "title":"Soccer Ball",
-       "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis fringilla sem efficitur congue. Vestibulum efficitur blandit ultricies. Sed tempus mollis orci id facilisis. Aliquam placerat, ipsum eget egestas malesuada, neque nunc scelerisque felis, ut egestas turpis augue ut nisi. Curabitur vel convallis augue.",
+       "body":"A premium soccer ball engineered for precision, durability, and high performance on the field.",
        "published":true
     },
     {
        "id":9,
-       "category":5,
+       "category":"Pets",
        "postDate":"2023-05-16",
        "featureImage":"https://dummyimage.com/200x200/000/fff",
        "price":99.99,
        "title":"Dog Food",
-       "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis fringilla sem efficitur congue. Vestibulum efficitur blandit ultricies. Sed tempus mollis orci id facilisis. Aliquam placerat, ipsum eget egestas malesuada, neque nunc scelerisque felis, ut egestas turpis augue ut nisi. Curabitur vel convallis augue.",
+       "body":"Nutritionally balanced dog food to keep your furry friend healthy and active. Made with premium ingredients.",
        "published":true
     },
     {
        "id":10,
-       "category":5,
+       "category":"Pets",
        "postDate":"2023-05-16",
        "featureImage":"https://dummyimage.com/200x200/000/fff",
        "price":9.99,
        "title":"Fish Food",
-       "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis fringilla sem efficitur congue. Vestibulum efficitur blandit ultricies. Sed tempus mollis orci id facilisis. Aliquam placerat, ipsum eget egestas malesuada, neque nunc scelerisque felis, ut egestas turpis augue ut nisi. Curabitur vel convallis augue.",
+       "body":"Specially formulated fish food to ensure the health and growth of your aquarium fish. Rich in essential nutrients.",
        "published":true
     }
- ] 
+]
